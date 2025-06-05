@@ -1,40 +1,29 @@
 <div align="center">
   <h1>🌌 Haji Mix - Code Wizard & AI Enthusiast 🚀</h1>
-  <p><em>Building futuristic apps with a neon glow! ✨ Passionate about AI, web dev, and crafting epic code.</em></p>
+  <p><em>Building web apps & AI Chatbot's Automation! ✨ Master of web dev, AI, and cyberpunk vibes.</em></p>
 </div>
-
 ---
 
 ### 👾 About Me
-Yo, I’m **Haji Mix**! I’m a developer who thrives on creating **AI-driven tools**, **web apps**, and slick interfaces. My style? Cyberpunk vibes with clean code and a touch of retro flair. When I’m not slinging JavaScript or training models, I’m vibing to synthwave or exploring new tech. 🎧
+Hey, I’m **Haji Mix**! I’m a web developer obsessed with crafting **AI-powered tools**, **web apps**, and slick interfaces. My style? aesthetics, clean code, and a sprinkle of retro synthwave energy. Whether it’s slinging JavaScript, building APIs, or experimenting with ML, I’m all about pushing tech to the edge. 🎧
 
-- 🔭 Currently working on: **AI-powered web apps & automation tools**
-- 🌱 Learning: **Python ML libraries & Next.js**
-- 💬 Ask me about: **JavaScript, Node.js, or AI workflows**
-- ⚡ Fun fact: I debugged a Node.js app while blasting cyberpunk beats!
+- 🔭 Currently working on: **AI-driven APIs & real-time web apps**
+- 🌱 Learning: **Python ML frameworks & Next.js**
+- 💬 Ask me about: **JavaScript, Node.js, or cosplay data APIs**
+- ⚡ Fun fact: I once fixed a WebSocket bug while jamming to 80s retro beats!
 
 ---
 
 ### 🛠️ Tech Stack
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-Expert_90%25-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" alt="JavaScript"></a>
-  <br>
   <a href="https://nodejs.org"><img src="https://img.shields.io/badge/Node.js-Advanced_85%25-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" alt="Node.js"></a>
-  <br>
-  <a _
-
-href="https://expressjs.com"><img src="https://img.shields.io/badge/Express.js-Advanced_80%25-000000?logo=express&logoColor=white&style=for-the-badge" alt="Express.js"></a>
-  <br>
+  <a href="https://expressjs.com"><img src="https://img.shields.io/badge/Express.js-Advanced_80%25-000000?logo=express&logoColor=white&style=for-the-badge" alt="Express.js"></a>
   <a href="https://www.mongodb.com"><img src="https://img.shields.io/badge/MongoDB-Advanced_80%25-47A248?logo=mongodb&logoColor=white&style=for-the-badge" alt="MongoDB"></a>
-  <br>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML5-Expert_95%25-E34F26?logo=html5&logoColor=white&style=for-the-badge" alt="HTML5"></a>
-  <br>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS3-Expert_90%25-1572B6?logo=css3&logoColor=white&style=for-the-badge" alt="CSS3"></a>
-  <br>
   <a href="https://reactjs.org"><img src="https://img.shields.io/badge/React-Advanced_85%25-61DAFB?logo=react&logoColor=black&style=for-the-badge" alt="React"></a>
-  <br>
   <a href="https://git-scm.com"><img src="https://img.shields.io/badge/Git-Advanced_85%25-F05032?logo=git&logoColor=white&style=for-the-badge" alt="Git"></a>
-  <br>
   <a href="https://www.python.org"><img src="https://img.shields.io/badge/Python-Beginner_50%25-3776AB?logo=python&logoColor=white&style=for-the-badge" alt="Python"></a>
 </p>
 
@@ -44,24 +33,24 @@ href="https://expressjs.com"><img src="https://img.shields.io/badge/Express.js-A
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=haji-mix&show_icons=true&theme=tokyonight" alt="Haji Mix's GitHub Stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haji-mix&layout=compact&theme=tokyonight" alt="Top Languages">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=haji-mix&theme=tokyonight" alt="Contribution Streak">
 </p>
 
 ---
-
 ### 🌟 Featured Projects
-- **[Haxor](https://github.com/haji-mix/haxor)**: A sleek API for fetching cosplay data with a cyberpunk edge. 🦾
-- **[AI Playground](https://github.com/haji-mix/ai-playground)**: Experiments with ML models and datasets. 🧠
-- **[Neon Portfolio](https://github.com/haji-mix/neon-portfolio)**: My personal site with Tailwind CSS and smooth animations. 🌌
-
+- **[AI Playground](https://haji-mix-api.gleeze.com/pg)**: A sandbox for experimenting with machine learning models, datasets, and AI APIs. Built with Python and Node.js. 🧠
+- **[My Portfolio](https://haji-mix-api.gleeze.com/)**: A vibrant personal site showcasing my work with Tailwind CSS, React, and smooth animations. 🌌
+- **[FBSHARE](https://fbshare.gleeze.com/)**: A real-time social media boosting platform using WebSocket, React, and Express.js for dynamic updates. 📱
+- **[My Free Public APIs](https://haji-mix-api.gleeze.com/docs)**: A collection of public APIs (not an npm package) for accessing cosplay data and more, powered by Node.js and Express.js. 🔒
 ---
 
 ### 📫 Connect with Me
 <p align="center">
-  <a href="https://www.facebook.com/haji.atomyc2727"><img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge" alt="Facebook"></a>
-  <a href="https://huggingface.co/hajimix"><img src="https://img.shields.io/badge/Hugging_Face-F7C948?logo=huggingface&logoColor=black&style=for-the-badge" alt="Hugging Face"></a>
-  <a href="https://www.linkedin.com/in/hajimix"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"></a>
+  <a href="https://www.facebook.com/atomyc2727"><img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge" alt="Facebook"></a>
+  <a href="https://huggingface.co/haji-mix"><img src="https://img.shields.io/badge/Hugging_Face-F7C948?logo=huggingface&logoColor=black&style=for-the-badge" alt="Hugging Face"></a>
+  <a href="https://www.linkedin.com/in/kenneth-panio-942585314/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"></a>
 </p>
 
 <div align="center">
-  <p>💥 Thanks for visiting! Let’s code the future together. 🚀</p>
+  <p>💥 Drop by, check my code, and let’s build the future together! 🚀</p>
 </div>
