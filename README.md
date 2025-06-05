@@ -1,7 +1,7 @@
 ---
 <div align="center">
-  <h1>🌌 Haji Mix - Code Wizard & AI Enthusiast 🚀</h1>
-  <p><em>Building web apps & AI Chatbot's Automation! ✨ Master of web dev, AI, and cyberpunk vibes.</em></p>
+  <h1>🌌 Haji Mix - Web Developer 🚀</h1>
+  <p><em>Building web apps & AI Chatbot's Automation.</em></p>
 </div>
 ---
 
