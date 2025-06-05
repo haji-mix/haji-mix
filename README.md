@@ -9,7 +9,7 @@ Hey, I’m **Haji Mix**! I’m a web developer obsessed with crafting **AI-power
 
 - 🔭 Currently working on: **AI-driven APIs & real-time web apps**
 - 🌱 Learning: **Python ML frameworks & Next.js**
-- 💬 Ask me about: **JavaScript, Node.js, or cosplay data APIs**
+- 💬 Ask me about: **JavaScript, Node.js, APIs**
 - ⚡ Fun fact: I once fixed a WebSocket bug while jamming to 80s retro beats!
 
 ---
@@ -38,10 +38,10 @@ Hey, I’m **Haji Mix**! I’m a web developer obsessed with crafting **AI-power
 
 ---
 ### 🌟 Featured Projects
-- **[AI Playground](https://haji-mix-api.gleeze.com/pg)**: A sandbox for experimenting with machine learning models, datasets, and AI APIs. Built with Python and Node.js. 🧠
+- **[AI Playground](https://haji-mix-api.gleeze.com/pg)**: A sandbox for experimenting with machine learning models, and AI APIs. Built with Python and Node.js. 🧠
 - **[My Portfolio](https://haji-mix-api.gleeze.com/)**: A vibrant personal site showcasing my work with Tailwind CSS, React, and smooth animations. 🌌
 - **[FBSHARE](https://fbshare.gleeze.com/)**: A real-time social media boosting platform using WebSocket, React, and Express.js for dynamic updates. 📱
-- **[My Free Public APIs](https://haji-mix-api.gleeze.com/docs)**: A collection of public APIs (not an npm package) for accessing cosplay data and more, powered by Node.js and Express.js. 🔒
+- **[My Free Public APIs](https://haji-mix-api.gleeze.com/docs)**: A collection of public APIs, powered by Node.js and Fastify. 🔒
 ---
 
 ### 📫 Connect with Me
